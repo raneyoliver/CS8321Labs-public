@@ -2,3 +2,8 @@ numberbatch-en-17.04b.txt.gz
 glove
 .ipynb_checkpoints
 .DS_Store
+lab1/data/glove.840B.300d.txt
+lab1/data/numberbatch-en-17.04b.txt
+lab1/df_all.csv
+lab1/.ipynb_checkpoints/lab1-checkpoint.ipynb
+lab1/.ipynb_checkpoints/lab1-checkpoint.ipynb
