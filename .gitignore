@@ -10,3 +10,7 @@ lab1/.ipynb_checkpoints/lab1-checkpoint.ipynb
 venv
 lab1/df_romcom_glove.csv
 lab1/df_horror_glove.csv
+lab1/df_horror_cnnb.csv
+lab1/df_romcom_cnnb.csv
+lab1/df_horror_cnnb.csv
+lab1/df_romcom_cnnb.csv
