@@ -17,3 +17,4 @@ lab2/data/*
 lab2/lab2_cp.ipynb
 lab2/lab2.ipynb
 lab2/*.npy
+lab2/*.keras
