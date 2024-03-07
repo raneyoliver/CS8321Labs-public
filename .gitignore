@@ -19,7 +19,6 @@ lab2/lab2.ipynb
 lab2/*.npy
 lab2/*.keras
 lab2/.Rhistory
-lab2/lab2_sc0305-edit.ipynb
 lab2/sampled_df.csv
 lab2/sampled_df_bin.csv
 lab2/lab2_sc.ipynb
@@ -28,3 +27,4 @@ lab2/lab2.ipynb
 lab2/lab2_cp0304.ipynb
 lab2/sampled_df.csv
 lab2/sampled_df_bin.csv
+lab2/models/checkpoint.data-00000-of-00001
