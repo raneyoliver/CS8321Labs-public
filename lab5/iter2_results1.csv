@@ -1,0 +1,2 @@
+Num_Steps,Median_Error,Median_CEP,Median_X,Median_Y,MAD_X,MAD_Y,Mean_X,Mean_Y,Std_X,Std_Y,Distance_Moved,TotalReward
+39,1.7766026375299595,0.9143052955459433,351.26,330.35,0.53,0.74,349.86,329.75,5.59,2.6,6968.943102593984,48
